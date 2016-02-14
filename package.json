@@ -1,0 +1,31 @@
+{
+  "name": "tree-loader",
+  "version": "2.0.0",
+  "description": "Watches directories and keeps an in-memory tree with contents of all files.",
+  "main": "lib/tree-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mderijcke/tree-loader.git"
+  },
+  "keywords": [
+    "stat",
+    "watch",
+    "directory",
+    "parse",
+    "memory",
+    "tree"
+  ],
+  "author": "Mitchell de Rijcke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mderijcke/tree-loader/issues"
+  },
+  "homepage": "https://github.com/mderijcke/tree-loader#readme",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "chokidar": "^1.4.2"
+  }
+}
