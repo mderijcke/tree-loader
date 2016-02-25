@@ -1,6 +1,6 @@
 {
   "name": "tree-loader",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Watches directories and keeps an in-memory tree with contents of all files.",
   "main": "lib/tree-loader.js",
   "scripts": {
